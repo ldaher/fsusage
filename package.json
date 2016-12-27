@@ -1,0 +1,19 @@
+{
+  "name": "fsusage",
+  "version": "1.0.0",
+  "description": "How to use FS module to read and write files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -t 0 tests --recursive --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldaher/fsusage.git"
+  },
+  "author": "Luciano Daher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldaher/fsusage/issues"
+  },
+  "homepage": "https://github.com/ldaher/fsusage#readme"
+}

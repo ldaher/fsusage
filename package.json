@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/ldaher/fsusage#readme",
   "dependencies": {
+    "express": "^4.14.0",
     "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "nock": "^9.0.2"
   }
 }
